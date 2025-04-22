@@ -1,0 +1,779 @@
+[
+  {
+    "name": "Neck Tilt",
+    "description": "A stretch focused on the neck to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Neck Rotation",
+    "description": "A stretch focused on the neck to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Ear to Shoulder Stretch",
+    "description": "A stretch focused on the neck to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Shoulder Rolls",
+    "description": "A stretch focused on the shoulders to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Cross-Body Shoulder Stretch",
+    "description": "A stretch focused on the shoulders to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Wall Shoulder Stretch",
+    "description": "A stretch focused on the shoulders to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Cat-Cow Stretch",
+    "description": "A stretch focused on the back to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Child's Pose",
+    "description": "A stretch focused on the back to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Cobra Stretch",
+    "description": "A stretch focused on the back to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Seated Forward Fold",
+    "description": "A stretch focused on the back, hamstrings to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Thread the Needle",
+    "description": "A stretch focused on the back, shoulders to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Shoulders"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Seated Hip Stretch",
+    "description": "A stretch focused on the hips to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Lunge Stretch",
+    "description": "A stretch focused on the hips, quads to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hips",
+      "Quads"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Butterfly Stretch",
+    "description": "A stretch focused on the hips, groin to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Standing Hamstring Stretch",
+    "description": "A stretch focused on the hamstrings to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Supine Hamstring Stretch",
+    "description": "A stretch focused on the hamstrings to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Standing Quad Stretch",
+    "description": "A stretch focused on the quads to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Quads"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Lying Quad Stretch",
+    "description": "A stretch focused on the quads to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Quads"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Couch Stretch",
+    "description": "A stretch focused on the quads, hips to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Quads",
+      "Hips"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Wall Calf Stretch",
+    "description": "A stretch focused on the calves to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Downward Dog",
+    "description": "A stretch focused on the calves, hamstrings, shoulders to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Calves",
+      "Hamstrings",
+      "Shoulders"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Overhead Triceps Stretch",
+    "description": "A stretch focused on the arms to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Wrist Flexor Stretch",
+    "description": "A stretch focused on the arms, wrists to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Arms",
+      "Wrists"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Wrist Extensor Stretch",
+    "description": "A stretch focused on the arms, wrists to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Arms",
+      "Wrists"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Prayer Stretch",
+    "description": "A stretch focused on the wrists to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Wrists"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Reverse Prayer Stretch",
+    "description": "A stretch focused on the wrists, shoulders to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Wrists",
+      "Shoulders"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Seated Twist",
+    "description": "A stretch focused on the core, back to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Core",
+      "Back"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Bridge Pose",
+    "description": "A stretch focused on the core, glutes to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Core",
+      "Glutes"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Standing Side Stretch",
+    "description": "A stretch focused on the core, obliques to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Core",
+      "Obliques"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Prayer Stretch Variation 10",
+    "description": "A stretch focused on the wrists to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Wrists"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Lunge Stretch Variation 4",
+    "description": "A stretch focused on the hips, quads to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Quads"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Seated Forward Fold Variation 5",
+    "description": "A stretch focused on the back, hamstrings to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Wrist Flexor Stretch Variation 3",
+    "description": "A stretch focused on the arms, wrists to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Arms",
+      "Wrists"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Thread the Needle Variation 7",
+    "description": "A stretch focused on the back, shoulders to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Shoulders"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Prayer Stretch Variation 10",
+    "description": "A stretch focused on the wrists to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Wrists"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Thread the Needle Variation 7 Variation 8",
+    "description": "A stretch focused on the back, shoulders to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Shoulders"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Supine Hamstring Stretch Variation 4",
+    "description": "A stretch focused on the hamstrings to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Wall Shoulder Stretch Variation 2",
+    "description": "A stretch focused on the shoulders to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Wrist Extensor Stretch Variation 5",
+    "description": "A stretch focused on the arms, wrists to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Arms",
+      "Wrists"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Couch Stretch Variation 6",
+    "description": "A stretch focused on the quads, hips to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Quads",
+      "Hips"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Thread the Needle Variation 7 Variation 4",
+    "description": "A stretch focused on the back, shoulders to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Shoulders"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "On All Fours",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Wrist Extensor Stretch Variation 5 Variation 5",
+    "description": "A stretch focused on the arms, wrists to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms",
+      "Wrists"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Lying Quad Stretch Variation 5",
+    "description": "A stretch focused on the quads to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Quads"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Lunge Stretch Variation 4",
+    "description": "A stretch focused on the hips, quads to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Quads"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Neck Rotation Variation 8",
+    "description": "A stretch focused on the neck to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Prayer Stretch Variation 6",
+    "description": "A stretch focused on the wrists to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Wrists"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Wrist Extensor Stretch Variation 5 Variation 6",
+    "description": "A stretch focused on the arms, wrists to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms",
+      "Wrists"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Prayer Stretch Variation 10 Variation 1",
+    "description": "A stretch focused on the wrists to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Wrists"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Reverse Prayer Stretch Variation 4",
+    "description": "A stretch focused on the wrists, shoulders to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Wrists",
+      "Shoulders"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  },
+  {
+    "name": "Downward Dog Variation 9",
+    "description": "A stretch focused on the calves, hamstrings, shoulders to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves",
+      "Hamstrings",
+      "Shoulders"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/stretch-video"
+  }
+]

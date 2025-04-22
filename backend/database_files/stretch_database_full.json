@@ -1,0 +1,4739 @@
+[
+  {
+    "name": "Standing Hamstring Stretch",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 2",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 2",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation",
+      "pre-natal"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 2",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 2",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 2",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 2",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 2",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 2",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 2",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 2",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 3",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 3",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 3",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 3",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 3",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 3",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 3",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 3",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 3",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 3",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 4",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 4",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 4",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 4",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 4",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 4",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 4",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "flexibility",
+      "pre-natal"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 4",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 4",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 4",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 5",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 5",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 5",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 5",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 5",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 5",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 5",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 5",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 5",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 5",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 6",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 6",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 6",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 6",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 6",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 6",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 6",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 6",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 6",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 6",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 7",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 7",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 7",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 7",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 7",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 7",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 7",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 7",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 7",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 7",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 8",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 8",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 8",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 8",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 8",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 8",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 8",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 8",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 8",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 8",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 9",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 9",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 9",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 9",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 9",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 9",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 9",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 9",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 9",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 9",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 10",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 10",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 10",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 10",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 10",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 10",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 10",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 10",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 10",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 10",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 11",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 11",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "relaxation",
+      "pre-natal"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 11",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 11",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 11",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 11",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 11",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 11",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 11",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 11",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 12",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 12",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 12",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 12",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 12",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 12",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 12",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility",
+      "pre-natal"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 12",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 12",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 12",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 13",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 13",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 13",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 13",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 13",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 13",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 13",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 13",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 13",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 13",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 14",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 14",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 14",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 14",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 14",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 14",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 14",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 14",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 14",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 14",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 15",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 15",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 15",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 15",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 15",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 15",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 15",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 15",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 15",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 15",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 16",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 16",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation",
+      "pre-natal"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 16",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 16",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 16",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 16",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 16",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 16",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 16",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 16",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 17",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 17",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 17",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 17",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 17",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 17",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 17",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 17",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 17",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 17",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 18",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 18",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation",
+      "pre-natal"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 18",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 18",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 18",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 18",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 18",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 18",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 18",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 18",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 19",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 19",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 19",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 19",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 19",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 19",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 90,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 19",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "flexibility",
+      "pre-natal"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 19",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 19",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 19",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 20",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 20",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 20",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 20",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 20",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 20",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 20",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 20",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 20",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 20",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 21",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 21",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 21",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 21",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 21",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 45,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/wall_calf_stretch.mp4",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 21",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/bridge_pose.mp4",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 21",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 21",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 21",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 21",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Towel"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Standing Hamstring Stretch Level 22",
+    "description": "A variation of the Standing Hamstring Stretch targeting hamstrings.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/standing_hamstring_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/standing_hamstring_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "senior-friendly"
+    ]
+  },
+  {
+    "name": "Child's Pose Level 22",
+    "description": "A variation of the Child's Pose targeting back, hips.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Hips"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/child's_pose.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/child's_pose.mp4",
+    "tags": [
+      "cool-down",
+      "relaxation"
+    ]
+  },
+  {
+    "name": "Cat-Cow Stretch Level 22",
+    "description": "A variation of the Cat-Cow Stretch targeting back, core.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/cat-cow_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/cat-cow_stretch.mp4",
+    "tags": [
+      "warm-up",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Seated Forward Fold Level 22",
+    "description": "A variation of the Seated Forward Fold targeting hamstrings, back.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Hamstrings",
+      "Back"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/seated_forward_fold.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/seated_forward_fold.mp4",
+    "tags": [
+      "cool-down",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Wall Calf Stretch Level 22",
+    "description": "A variation of the Wall Calf Stretch targeting calves.",
+    "duration": 90,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrls": [
+      "https://example.com/images/wall_calf_stretch.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "warm-up"
+    ]
+  },
+  {
+    "name": "Bridge Pose Level 22",
+    "description": "A variation of the Bridge Pose targeting glutes, core.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes",
+      "Core"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "On All Fours",
+    "imageUrls": [
+      "https://example.com/images/bridge_pose.jpg"
+    ],
+    "videoUrl": "",
+    "tags": [
+      "strengthening",
+      "yoga"
+    ]
+  },
+  {
+    "name": "Butterfly Stretch Level 22",
+    "description": "A variation of the Butterfly Stretch targeting hips, groin.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Hips",
+      "Groin"
+    ],
+    "equipment": [
+      "Mat"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/butterfly_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/butterfly_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "flexibility"
+    ]
+  },
+  {
+    "name": "Overhead Triceps Stretch Level 22",
+    "description": "A variation of the Overhead Triceps Stretch targeting arms.",
+    "duration": 90,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/overhead_triceps_stretch.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/overhead_triceps_stretch.mp4",
+    "tags": [
+      "cool-down",
+      "mobility"
+    ]
+  },
+  {
+    "name": "Lying Knee Twist Level 22",
+    "description": "A variation of the Lying Knee Twist targeting back, core.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back",
+      "Core"
+    ],
+    "equipment": [
+      "Strap"
+    ],
+    "position": "Lying Down",
+    "imageUrls": [
+      "https://example.com/images/lying_knee_twist.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/lying_knee_twist.mp4",
+    "tags": [
+      "relaxation",
+      "spinal mobility"
+    ]
+  },
+  {
+    "name": "Ankle Circles Level 22",
+    "description": "A variation of the Ankle Circles targeting ankles.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrls": [
+      "https://example.com/images/ankle_circles.jpg"
+    ],
+    "videoUrl": "https://example.com/videos/ankle_circles.mp4",
+    "tags": [
+      "warm-up",
+      "senior-friendly"
+    ]
+  }
+]

@@ -1,0 +1,760 @@
+[
+  {
+    "name": "Neck Tilt",
+    "description": "This stretch targets the Quads area to enhance range of motion and reduce soreness.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Quads"
+    ],
+    "equipment": [
+      "Yoga Mat"
+    ],
+    "position": "Wall-Assisted",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/neck-tilt-video"
+  },
+  {
+    "name": "Shoulder Roll",
+    "description": "Designed to loosen the Spine, this stretch is ideal for relaxation and recovery.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Spine"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Wall-Assisted",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/shoulder-roll-video"
+  },
+  {
+    "name": "Arm Across Chest",
+    "description": "A stretch focused on the Neck to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Neck"
+    ],
+    "equipment": [
+      "Resistance Band"
+    ],
+    "position": "Lying",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/arm-across-chest-video"
+  },
+  {
+    "name": "Triceps Stretch",
+    "description": "Improves mobility in the Chest region and reduces stiffness after prolonged activity.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Chest"
+    ],
+    "equipment": [
+      "None",
+      "Wall"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/triceps-stretch-video"
+  },
+  {
+    "name": "Wrist Flexor Stretch",
+    "description": "A stretch focused on the Wrists to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Wrists"
+    ],
+    "equipment": [
+      "Resistance Band",
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/wrist-flexor-stretch-video"
+  },
+  {
+    "name": "Cat-Cow",
+    "description": "Designed to loosen the Wrists, this stretch is ideal for relaxation and recovery.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Wrists"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/cat-cow-video"
+  },
+  {
+    "name": "Child's Pose",
+    "description": "This stretch targets the Ankles area to enhance range of motion and reduce soreness.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Ankles"
+    ],
+    "equipment": [
+      "Chair",
+      "Resistance Band"
+    ],
+    "position": "Kneeling",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/child's-pose-video"
+  },
+  {
+    "name": "Seated Forward Bend",
+    "description": "A stretch focused on the Shoulders to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Supine",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/seated-forward-bend-video"
+  },
+  {
+    "name": "Hamstring Stretch",
+    "description": "Designed to loosen the Core, this stretch is ideal for relaxation and recovery.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Core"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Wall-Assisted",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/hamstring-stretch-video"
+  },
+  {
+    "name": "Quad Stretch",
+    "description": "This stretch targets the Core area to enhance range of motion and reduce soreness.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Core"
+    ],
+    "equipment": [
+      "Foam Roller",
+      "None"
+    ],
+    "position": "Lying",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/quad-stretch-video"
+  },
+  {
+    "name": "Hip Flexor Stretch",
+    "description": "This stretch targets the Chest area to enhance range of motion and reduce soreness.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Chest"
+    ],
+    "equipment": [
+      "Wall",
+      "Foam Roller"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/hip-flexor-stretch-video"
+  },
+  {
+    "name": "Butterfly Stretch",
+    "description": "A stretch focused on the Arms to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Kneeling",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/butterfly-stretch-video"
+  },
+  {
+    "name": "Calf Stretch",
+    "description": "This stretch targets the Shoulders area to enhance range of motion and reduce soreness.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Foam Roller",
+      "Chair"
+    ],
+    "position": "Prone",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/calf-stretch-video"
+  },
+  {
+    "name": "Ankle Circles",
+    "description": "A stretch focused on the Shoulders to improve flexibility and relieve tension.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Shoulders"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Prone",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/ankle-circles-video"
+  },
+  {
+    "name": "Toe Touch",
+    "description": "Designed to loosen the Core, this stretch is ideal for relaxation and recovery.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Core"
+    ],
+    "equipment": [
+      "Foam Roller"
+    ],
+    "position": "Lying",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/toe-touch-video"
+  },
+  {
+    "name": "Standing Side Bend",
+    "description": "Improves mobility in the Calves region and reduces stiffness after prolonged activity.",
+    "duration": 15,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Foam Roller",
+      "Yoga Mat"
+    ],
+    "position": "Lying",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/standing-side-bend-video"
+  },
+  {
+    "name": "Spinal Twist",
+    "description": "A stretch focused on the Hamstrings to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Kneeling",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/spinal-twist-video"
+  },
+  {
+    "name": "Figure Four Stretch",
+    "description": "Improves mobility in the Glutes region and reduces stiffness after prolonged activity.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Yoga Mat"
+    ],
+    "position": "Lying",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/figure-four-stretch-video"
+  },
+  {
+    "name": "Wall Chest Stretch",
+    "description": "Designed to loosen the Back, this stretch is ideal for relaxation and recovery.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Back"
+    ],
+    "equipment": [
+      "Foam Roller",
+      "None"
+    ],
+    "position": "Wall-Assisted",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/wall-chest-stretch-video"
+  },
+  {
+    "name": "Doorway Stretch",
+    "description": "Designed to loosen the Quads, this stretch is ideal for relaxation and recovery.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Quads"
+    ],
+    "equipment": [
+      "None",
+      "Foam Roller"
+    ],
+    "position": "Supine",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/doorway-stretch-video"
+  },
+  {
+    "name": "Lunge with Twist",
+    "description": "A stretch focused on the Quads to improve flexibility and relieve tension.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Quads"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Kneeling",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/lunge-with-twist-video"
+  },
+  {
+    "name": "Pigeon Pose",
+    "description": "Improves mobility in the Chest region and reduces stiffness after prolonged activity.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Chest"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/pigeon-pose-video"
+  },
+  {
+    "name": "Cobra Stretch",
+    "description": "This stretch targets the Glutes area to enhance range of motion and reduce soreness.",
+    "duration": 15,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/cobra-stretch-video"
+  },
+  {
+    "name": "Downward Dog",
+    "description": "This stretch targets the Chest area to enhance range of motion and reduce soreness.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Chest"
+    ],
+    "equipment": [
+      "Foam Roller"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/downward-dog-video"
+  },
+  {
+    "name": "Side-Lying Quad Stretch",
+    "description": "Designed to loosen the Arms, this stretch is ideal for relaxation and recovery.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Foam Roller",
+      "Chair"
+    ],
+    "position": "Seated",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/side-lying-quad-stretch-video"
+  },
+  {
+    "name": "Bridge Pose",
+    "description": "This stretch targets the Hips area to enhance range of motion and reduce soreness.",
+    "duration": 15,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hips"
+    ],
+    "equipment": [
+      "None",
+      "Yoga Mat"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/bridge-pose-video"
+  },
+  {
+    "name": "Happy Baby",
+    "description": "This stretch targets the Spine area to enhance range of motion and reduce soreness.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Spine"
+    ],
+    "equipment": [
+      "Chair",
+      "Wall"
+    ],
+    "position": "Lying",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/happy-baby-video"
+  },
+  {
+    "name": "Thread the Needle",
+    "description": "A stretch focused on the Spine to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Spine"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Supine",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/thread-the-needle-video"
+  },
+  {
+    "name": "Lying Knee Hug",
+    "description": "Designed to loosen the Arms, this stretch is ideal for relaxation and recovery.",
+    "duration": 60,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Foam Roller",
+      "Resistance Band"
+    ],
+    "position": "Wall-Assisted",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/lying-knee-hug-video"
+  },
+  {
+    "name": "Seated Spinal Twist",
+    "description": "A stretch focused on the Glutes to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "equipment": [
+      "None",
+      "Foam Roller"
+    ],
+    "position": "Lying",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/seated-spinal-twist-video"
+  },
+  {
+    "name": "Wall Sit Stretch",
+    "description": "Improves mobility in the Arms region and reduces stiffness after prolonged activity.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Arms"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Supine",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/wall-sit-stretch-video"
+  },
+  {
+    "name": "Lat Stretch",
+    "description": "This stretch targets the Wrists area to enhance range of motion and reduce soreness.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Wrists"
+    ],
+    "equipment": [
+      "Yoga Mat",
+      "Chair"
+    ],
+    "position": "Supine",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/lat-stretch-video"
+  },
+  {
+    "name": "Upper Trap Stretch",
+    "description": "This stretch targets the Calves area to enhance range of motion and reduce soreness.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Prone",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/upper-trap-stretch-video"
+  },
+  {
+    "name": "Forearm Extensor Stretch",
+    "description": "A stretch focused on the Back to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Back"
+    ],
+    "equipment": [
+      "Foam Roller"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/forearm-extensor-stretch-video"
+  },
+  {
+    "name": "Scalene Stretch",
+    "description": "Improves mobility in the Spine region and reduces stiffness after prolonged activity.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Spine"
+    ],
+    "equipment": [
+      "Chair",
+      "Yoga Mat"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/scalene-stretch-video"
+  },
+  {
+    "name": "Levator Scapulae Stretch",
+    "description": "Designed to loosen the Calves, this stretch is ideal for relaxation and recovery.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Supine",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/levator-scapulae-stretch-video"
+  },
+  {
+    "name": "Frog Pose",
+    "description": "Designed to loosen the Wrists, this stretch is ideal for relaxation and recovery.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Wrists"
+    ],
+    "equipment": [
+      "Wall"
+    ],
+    "position": "Kneeling",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/frog-pose-video"
+  },
+  {
+    "name": "Seated Hamstring Stretch",
+    "description": "Designed to loosen the Core, this stretch is ideal for relaxation and recovery.",
+    "duration": 45,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Core"
+    ],
+    "equipment": [
+      "Foam Roller"
+    ],
+    "position": "Prone",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/seated-hamstring-stretch-video"
+  },
+  {
+    "name": "Standing Calf Stretch",
+    "description": "This stretch targets the Chest area to enhance range of motion and reduce soreness.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Chest"
+    ],
+    "equipment": [
+      "Yoga Mat",
+      "Foam Roller"
+    ],
+    "position": "Wall-Assisted",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/standing-calf-stretch-video"
+  },
+  {
+    "name": "Standing Forward Bend",
+    "description": "A stretch focused on the Glutes to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Resistance Band",
+      "Chair"
+    ],
+    "position": "Kneeling",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/standing-forward-bend-video"
+  },
+  {
+    "name": "Rag Doll Pose",
+    "description": "Designed to loosen the Back, this stretch is ideal for relaxation and recovery.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Back"
+    ],
+    "equipment": [
+      "Foam Roller",
+      "None"
+    ],
+    "position": "Prone",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/rag-doll-pose-video"
+  },
+  {
+    "name": "Wide-Legged Forward Fold",
+    "description": "Designed to loosen the Spine, this stretch is ideal for relaxation and recovery.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Spine"
+    ],
+    "equipment": [
+      "Yoga Mat"
+    ],
+    "position": "Wall-Assisted",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/wide-legged-forward-fold-video"
+  },
+  {
+    "name": "Windshield Wipers",
+    "description": "Improves mobility in the Calves region and reduces stiffness after prolonged activity.",
+    "duration": 60,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Calves"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/windshield-wipers-video"
+  },
+  {
+    "name": "Supine Twist",
+    "description": "Designed to loosen the Quads, this stretch is ideal for relaxation and recovery.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Quads"
+    ],
+    "equipment": [
+      "Wall",
+      "Resistance Band"
+    ],
+    "position": "Wall-Assisted",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/supine-twist-video"
+  },
+  {
+    "name": "Bear Hug Stretch",
+    "description": "Improves mobility in the Glutes region and reduces stiffness after prolonged activity.",
+    "duration": 30,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Resistance Band",
+      "Chair"
+    ],
+    "position": "Standing",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/bear-hug-stretch-video"
+  },
+  {
+    "name": "Chest Opener",
+    "description": "This stretch targets the Glutes area to enhance range of motion and reduce soreness.",
+    "duration": 30,
+    "difficulty": "Advanced",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Chair",
+      "None"
+    ],
+    "position": "Kneeling",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/chest-opener-video"
+  },
+  {
+    "name": "Heel Drop Stretch",
+    "description": "A stretch focused on the Glutes to improve flexibility and relieve tension.",
+    "duration": 30,
+    "difficulty": "Intermediate",
+    "muscleGroups": [
+      "Glutes"
+    ],
+    "equipment": [
+      "Foam Roller"
+    ],
+    "position": "Lying",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/heel-drop-stretch-video"
+  },
+  {
+    "name": "Neck Rotation",
+    "description": "A stretch focused on the Core to improve flexibility and relieve tension.",
+    "duration": 60,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Core"
+    ],
+    "equipment": [
+      "Chair",
+      "Wall"
+    ],
+    "position": "Supine",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/neck-rotation-video"
+  },
+  {
+    "name": "Overhead Side Reach",
+    "description": "Designed to loosen the Hamstrings, this stretch is ideal for relaxation and recovery.",
+    "duration": 45,
+    "difficulty": "Beginner",
+    "muscleGroups": [
+      "Hamstrings"
+    ],
+    "equipment": [
+      "None"
+    ],
+    "position": "Supine",
+    "imageUrl": "/images/placeholder.png",
+    "videoUrl": "https://example.com/overhead-side-reach-video"
+  }
+]
