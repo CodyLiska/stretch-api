@@ -1,9 +1,7 @@
-// server.js EXAMPLE
-
-const express = require('express');
-const mongoose = require('mongoose');
-const dotenv = require('dotenv');
-const cors = require('cors');
+const express = require("express");
+const mongoose = require("mongoose");
+const dotenv = require("dotenv");
+const cors = require("cors");
 
 dotenv.config();
 
@@ -12,13 +10,14 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
-const stretchRoutes = require('./routes/stretchRoutes');
-app.use('/api/stretches', stretchRoutes);
+const stretchRoutes = require("./routes/stretchRoutes");
+app.use("/api/stretches", stretchRoutes);
 
 // MongoDB Connection
-mongoose.connect(process.env.MONGO_URI)
-	.then(() => console.log('MongoDB connected'))
-	.catch(err => console.error(err));
+mongoose
+  .connect(process.env.MONGO_URI)
+  .then(() => console.log("MongoDB connected"))
+  .catch((err) => console.error(err));
 
 // Start Server
 const PORT = process.env.PORT || 3000;

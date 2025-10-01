@@ -1,4 +1,3 @@
-// backend/models/Stretch.js
 const mongoose = require("mongoose");
 
 const stretchSchema = new mongoose.Schema({
@@ -13,4 +12,3 @@ const stretchSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model("Stretch", stretchSchema, "StretchesV2");
-// ^ Third argument explicitly tells Mongoose to use 'stretchesV2' collection

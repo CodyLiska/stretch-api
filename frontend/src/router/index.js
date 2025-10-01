@@ -1,4 +1,3 @@
-// src/router/index.js
 import { createRouter, createWebHistory } from "vue-router";
 import StretchList from "@/views/StretchList.vue";
 import StretchDetail from "@/components/StretchDetail.vue";
