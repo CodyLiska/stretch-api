@@ -1,28 +1,15 @@
-# TODO:
-- add images and videos to stretches
-- add a search bar w. filters for Difficulty, Muscle Groups, Tags
-- on the StretchList page, add padding to the tags:<tag>, they are smushed next to the label
+# Stretch API
 
-# Full Stack Nodejs Boilerplate
+## Project Structure
 
-A boilerplate project for building full-stack apps using:
-
-- 🖼️ **Frontend:** Vue 3 + Vite
-- 🧠 **Backend:** Node.js + Express
-- 💾 **Database:** MongoDB
-- ⚙️ **Tooling:** dotenv, nodemon, concurrently, axios
+Stretch-App/
+├── backend/ # Node.js + Express API server
+├── frontend/ # Vite + Vue 3 frontend
+└──
 
 ---
 
-## 🗂️ Project Structure
-Stretch-App/ 
-  ├── backend/ # Node.js + Express API server 
-  ├── frontend/ # Vite + Vue 3 frontend 
-  └──
-
----
-
-## 🔧 Backend Setup
+## Backend Setup
 
 ### 1. Create the backend folder and initialize
 
@@ -39,10 +26,10 @@ npm install --save-dev nodemon
 
 ```js
 // backend/server.js
-const express = require('express');
-const mongoose = require('mongoose');
-const cors = require('cors');
-require('dotenv').config();
+const express = require("express");
+const mongoose = require("mongoose");
+const cors = require("cors");
+require("dotenv").config();
 
 const app = express();
 app.use(cors());
@@ -50,9 +37,10 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 3000;
 
-mongoose.connect(process.env.MONGO_URI)
-  .then(() => console.log('MongoDB connected'))
-  .catch(err => console.error('MongoDB connection error:', err));
+mongoose
+  .connect(process.env.MONGO_URI)
+  .then(() => console.log("MongoDB connected"))
+  .catch((err) => console.error("MongoDB connection error:", err));
 
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
@@ -67,15 +55,17 @@ PORT=<your-port>
 ```
 
 ### 4. Add backend scripts to backend/package.json
+
 ```json
 "scripts": {
   "start": "node server.js",
   "dev": "nodemon server.js"
 }
 ```
+
 ---
 
-## 🎨 Frontend Setup (Vue 3 + Vite)
+## Frontend Setup (Vue 3 + Vite)
 
 #### 1. Scaffold frontend using Vite
 
@@ -91,16 +81,17 @@ npm install vue-router@4
 
 ```js
 // frontend/vite.config.js
-import { defineConfig } from 'vite'
-import vue from '@vitejs/plugin-vue'
+import { defineConfig } from "vite";
+import vue from "@vitejs/plugin-vue";
 
 export default defineConfig({
   plugins: [vue()],
   server: {
-    port: 5173
-  }
-})
+    port: 5173,
+  },
+});
 ```
+
 #### 3. Add API URL to environment variables
 
 ```bash
@@ -130,6 +121,7 @@ export default {
 }
 </script>
 ```
+
 #### 5. index.html (root of frontend/)
 
 ```html
@@ -158,9 +150,10 @@ export default {
 
 ---
 
-## 🧩 Run Frontend & Backend Together
+## Run Frontend & Backend Together
 
 - Manually (in separate terminals)
+
 ```bash
 cd backend && npm run dev
 # In another terminal:
@@ -168,22 +161,25 @@ cd frontend && npm run dev
 ```
 
 - Automatically (in one terminal, requires concurrently)
+
 ```bash
 npm run dev
 ```
 
 ---
 
-## ✅ Final Notes
+## Final Notes
+
 Frontend URL: http://localhost:5173
 
 Backend URL: http://localhost:3000/api
 
-Env Vars: Use VITE_ prefix in frontend .env
+Env Vars: Use VITE\_ prefix in frontend .env
 
 ---
 
-## 🧹 Optional: ESLint Without Babel
+## Optional: ESLint Without Babel
+
 If you want ESLint with Vue and no Babel config:
 
 #### 1. Install ESLint tools
@@ -198,20 +194,20 @@ npm install --save-dev eslint vue-eslint-parser eslint-plugin-vue
 // frontend/eslint.config.mjs
 export default [
   {
-    files: ['**/*.vue'],
+    files: ["**/*.vue"],
     languageOptions: {
-      parser: require.resolve('vue-eslint-parser'),
+      parser: require.resolve("vue-eslint-parser"),
       parserOptions: {
         ecmaVersion: 2020,
-        sourceType: 'module',
-      }
+        sourceType: "module",
+      },
     },
     plugins: {
-      vue: require('eslint-plugin-vue'),
+      vue: require("eslint-plugin-vue"),
     },
     rules: {
-      'vue/no-unused-vars': 'warn',
-    }
-  }
+      "vue/no-unused-vars": "warn",
+    },
+  },
 ];
 ```
