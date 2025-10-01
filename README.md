@@ -2,10 +2,12 @@
 
 ## Project Structure
 
+```
 Stretch-App/
 ├── backend/ # Node.js + Express API server
 ├── frontend/ # Vite + Vue 3 frontend
 └──
+```
 
 ---
 
