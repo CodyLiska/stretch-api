@@ -51,7 +51,7 @@ app.listen(PORT, () => {
 
 ### 3. Create the .env file
 
-```json
+```
 MONGO_URI=<your-mongo-uri>
 PORT=<your-port>
 ```
