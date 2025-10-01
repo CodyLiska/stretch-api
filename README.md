@@ -211,3 +211,9 @@ export default [
   },
 ];
 ```
+
+## TODO:
+
+- [ ] add images and videos to stretches
+- [ ] add a search bar w. filters for Difficulty, Muscle Groups, Tags
+- [ ] on the StretchList page, add padding to the tags:, they are smushed next to the label
